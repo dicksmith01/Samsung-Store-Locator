@@ -1,0 +1,89 @@
+.form-searchBtn #findstorebtn, .form-searchBtn #findstorebtn:active, .form-searchBtn #findstorebtn:focus, .form-searchBtn #findstorebtn:hover {
+background-image: url(../images/bkg_btn.png);
+background-image: url('http://google.github.io/material-design-icons/action/svg/ic_search_24px.svg') !important;
+background-position: 5px 0 !important;
+background-position-y: 4px !important;
+background-repeat: no-repeat;
+right: 21px !important;
+width: 35px;
+height: 32px;
+display: block !important;
+font-weight: 400 !important;
+font-size: 15px;
+line-height: 43px !important;
+color: #292723;
+letter-spacing: -3.8px !important;
+text-align: center;
+float: right !important !important;
+margin-top: -32px !important;
+position: relative !important;
+bottom: 0 !important;
+border: 0 !important;
+margin-left: 0 !important;
+font-family: vagroundedregular, Arial, Helvetica, sans-serif;
+background-color: #fff !important;
+border: 1px solid #94948D !important;
+border-left-style: none !important;
+
+}
+
+.SearchStore {
+float: left !important;
+background-color: #0d5fb1 !important;
+height: 110px !important;
+display: table !important;
+margin: 0 !important;
+position: relative !important;
+width: 331px !important;
+border: 1px solid #dbdbdb !important;
+padding: 2px 1px 10px !important;
+
+}
+
+
+.SearchStore .title {
+height: 40px;
+display: none !important;
+font-size: 18px;
+line-height: 60px;
+font-family: vagroundedregular, Arial, Helvetica, sans-serif;
+padding: 0 10px;
+color: white;
+margin-left: 11px;
+background-color: #0d5fb1;
+border-color: black !important;
+
+}
+
+.title {
+
+display: none;
+
+
+}
+
+
+
+.SearchStore .inner .suggested-results {
+list-style: none;
+margin-left: 0px !important;
+width: 216px;
+height: 200px;
+background: #f9f9f9;
+position: absolute;
+z-index: 80;
+border: 1px solid #94948D;
+border-top: none;
+padding: 0 10px 10px !important;
+margin-top: -1px !important;
+
+}
+
+
+
+.SearchStore .sub-title {
+font-size: 1.2em;
+font-weight: 700;
+line-height: 1.75em;
+margin-bottom: 10px;
+color: white !important;
